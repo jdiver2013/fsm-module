@@ -1,0 +1,22 @@
+{
+  "name": "fsm",
+  "version": "1.0.0",
+  "description": "Simple implementation of finite state machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "test123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdiver2013/fsm-module.git"
+  },
+  "keywords": [
+    "FSM"
+  ],
+  "author": "Alexander Dryomov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdiver2013/fsm-module/issues"
+  },
+  "homepage": "https://github.com/jdiver2013/fsm-module#README"
+}
