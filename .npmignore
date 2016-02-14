@@ -3,5 +3,5 @@
 *.db
 node_modules/
 bower_components/
-
+gulpfile.js
 /dist
